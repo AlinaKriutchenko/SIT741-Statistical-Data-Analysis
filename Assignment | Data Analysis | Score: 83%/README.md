@@ -1,4 +1,4 @@
-# Data collection, statistical analysis and programming 
+# Assignment Data collection, statistical analysis and programming 
 
 Application of critical thinking and statistical techniques to represent them.
 Appropriate statistical techniques to visualize relationships in data.
